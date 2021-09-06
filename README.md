@@ -9,12 +9,15 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
-## Portafolio Personal
+## Portafolio de Taller
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
 
-* __John Titor__ : [My Page](https://www.linkedin.com/in/williamhgates/)
-
+* __Daniela Paz Díaz Mora__ : [My Page](https://www.linkedin.com/in/daniela-paz-diaz-mora/)
+* __GitBook Curso__:
+    - https://daniela-diaz.gitbook.io/mat281-aplicaciones-de-la-matematica-a-la-ingenier/
+* __Lista de Reproducción__*:
+    - https://youtube.com/playlist?list=PL5xVwwnUIAlrJt0TPu_RRZ_uhdJGT2QqC
 * __Repositorio Curso__:
     - [2019](https://github.com/aoguedao/mat281_2019S2)
     - [2020](https://github.com/aoguedao/mat281_2020S2)
